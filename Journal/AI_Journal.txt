@@ -4,4 +4,7 @@ ttruong2@terpmail.umd.edu
 INST 326 (0201)
 
 Week (9/7 - 7/13)
-Have not used AI for the project yet (as of 9/11/25)
+While doing the week 1 exercises, google colab autofill which I assume uses AI kept showing up. I actively tried not to look at it and type out my own code. It kind of made more work for me, since I was trying to practice and also avoid AI use. 
+I ended up using duckduckgo search assist to find out how to turn off this feature in google colab.
+
+For exercise 10, I was unsure what the prompt was asking of me (I thought it was asking me to print a line each for title and author while also having them the same length and centered?) so I asked Claude Haiku 3.5 what it interpretation of the question was. Based on its response, I concluded I was overthinking the question and just got thrown off by "so titles align." (duck.ai_2025-09-13_11-49-58.txt)
