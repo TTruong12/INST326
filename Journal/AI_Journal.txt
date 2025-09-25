@@ -11,3 +11,7 @@ Week 2 (9/14 - 9/20)
   AI was not used for assignments besides for exploration of Chat-GPT's image generation for the purposes of discussion. 
 
 Week 3 (9/21 - 9/27)
+  Used the built in search assist AI for the DuckDuckGo search engine when looking up basic syntax for the week 3 exercises.
+
+Week 4 (9/28 - 10/4)
+  
