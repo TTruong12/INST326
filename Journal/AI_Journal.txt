@@ -17,5 +17,6 @@ Week 4 (9/28 - 10/4)
   AI was not used
 
 Week 5 (10/5 - 10/11)
-  
+  Used claude to troubleshoot python path issues.
+
   
