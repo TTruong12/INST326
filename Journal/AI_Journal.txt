@@ -19,4 +19,5 @@ Week 4 (9/28 - 10/4)
 Week 5 (10/5 - 10/11)
   Used claude to troubleshoot python path issues.
 
-  
+Week 6 (10/19 - 10/25)
+  Asked claude for ideas on potential classes 
