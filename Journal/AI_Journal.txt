@@ -26,3 +26,7 @@ Week 7 (10/26 - 11/1)
   Asked claude for help in getting errors when trying to push my changes (resolving merge conflicts) to a protected branch. I was not able to figure out the issue so I temporarily disabled the ruleset in order to make changes. 
 
 Week 8 (11/2 - 11/8)
+  Ai was not used
+
+Week 9 (11/9 - 11/15)
+  
