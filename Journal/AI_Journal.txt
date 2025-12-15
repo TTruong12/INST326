@@ -34,7 +34,10 @@ Week 9 (11/9 - 11/15)
 Week 10 (11/16 - 11/22)
   used copilot in vscode to debug api errors. 
 
-Week 11 (12/7 - 12/14)
+Week 11-12
+  AI was not used  
+
+Week 13 (12/7 - 12/14)
   used claude for help finding max value in list of dictionaries with common key and also trying to install pip and nltk (installation didn't end up working out)
 
   
